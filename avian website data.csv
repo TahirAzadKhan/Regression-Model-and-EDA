@@ -1,0 +1,439 @@
+Age,Year,Month,Region,Diagnosis,Clinical Sign
+0-7 days,2012,5,Yorkshire and The Humber,Yolk sac infection/omphalitis,other/unknown
+0-7 days,2012,6,Yorkshire and The Humber,Yorkshire and The Humber,other/unknown
+0-7 days,2012,7,East of England,Not listed - systemic,Found Dead
+0-7 days,2012,8,South East,Yolk sac infection/omphalitis,Respiratory
+0-7 days,2012,9,West Midlands,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2013,1,West Midlands,Colisepticaemia,Found Dead
+0-7 days,2013,2,West Midlands,Not listed - systemic,Found Dead
+0-7 days,2013,9,Scotland,Yolk sac infection/omphalitis,other/unknown
+0-7 days,2013,11,Scotland,"Nephrosis, nephropathy and visceral gout",Found Dead
+0-7 days,2015,5,North West,Not listed - reproductive,other/unknown
+0-7 days,2015,9,Wales,Coccidiosis,Wasting
+0-7 days,2015,9,Wales,Helminthosis,Wasting
+0-7 days,2015,9,Wales,Infectious bronchitis,Wasting
+0-7 days,2016,1,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2016,3,Scotland,Sudden death syndrome ('Flipover'),Found Dead
+0-7 days,2016,3,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2016,4,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2016,5,Scotland,Colisepticaemia,Found Dead
+0-7 days,2016,6,Scotland,Colisepticaemia,other/unknown
+0-7 days,2016,8,South West,Not listed - digestive,Wasting
+0-7 days,2016,8,South West,Red Mite,Wasting
+0-7 days,2016,9,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2016,11,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2017,1,Scotland,"Nephrosis, nephropathy and visceral gout",Found Dead
+0-7 days,2017,1,Scotland,Trauma/Fracture,other/unknown
+0-7 days,2017,1,Scotland,Yolk sac infection/omphalitis,other/unknown
+0-7 days,2017,1,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2017,3,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2017,4,Scotland,Coccidiosis,Found Dead
+0-7 days,2017,4,Scotland,Septicaemia if not otherwise specified,other/unknown
+0-7 days,2017,4,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2017,8,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2017,8,Scotland,starve out (1st 4 days life),Found Dead
+0-7 days,2017,8,Scotland,Septicaemia if not otherwise specified,Nervous
+0-7 days,2017,8,Scotland,Septicaemia if not otherwise specified,Found Dead
+0-7 days,2017,8,Scotland,Adverse environment,Found Dead
+0-7 days,2017,9,Scotland,Colisepticaemia,Found Dead
+0-7 days,2017,10,Scotland,Colisepticaemia,Wasting
+0-7 days,2017,10,Scotland,Impactions,other/unknown
+0-7 days,2017,10,Scotland,Yolk sac infection/omphalitis,Found Dead
+0-7 days,2018,3,Scotland,Yolk sac infection/omphalitis,Wasting
+0-7 days,2018,9,South West,Yolk sac infection/omphalitis,Wasting
+0-7 days,2018,9,South West,Coccidiosis,Wasting
+0-7 days,2018,9,South West,Rotavirus,Wasting
+0-7 days,2020,7,Scotland,Red Mite,Found Dead
+0-7 days,2020,7,South West,Rotavirus,Found Dead
+0-7 days,2021,4,West Midlands,Yolk sac infection/omphalitis,other/unknown
+0-7 days,2021,10,Scotland,"Nephrosis, nephropathy and visceral gout",Found Dead
+0-7 days,2022,4,East of England,starve out (1st 4 days life),Found Dead
+0-7 days,2023,5,North West,Pododermatitis,Musculoskeletal&/or Lame
+0-7 days,2023,5,North West,Skeletal defects,Musculoskeletal&/or Lame
+0-7 days,2023,11,Wales,starve out (1st 4 days life),Found Dead
+0-7 days,2025,2,West Midlands,Arthritis/tenosynovitis-Staph,other/unknown
+0-7 days,2025,2,West Midlands,Pericarditis NOS,other/unknown
+Unknown/Other,2014,1,East of England,Malnutrition,other/unknown
+Unknown/Other,2014,3,North West,Blackhead,other/unknown
+Unknown/Other,2014,6,East of England,Egg peritonitis and salpingitis,Abnormal faeces or other GIT
+Unknown/Other,2014,6,East of England,Predation,Abnormal faeces or other GIT
+Unknown/Other,2014,6,Scotland,Yolk sac infection/omphalitis,Wasting
+Unknown/Other,2014,8,Wales,Coccidiosis,Abnormal faeces or other GIT
+Unknown/Other,2014,8,Wales,Egg peritonitis and salpingitis,Non-specific
+Unknown/Other,2014,8,Wales,Helminthosis,Non-specific
+Unknown/Other,2014,9,East of England,Coccidiosis,Respiratory
+Unknown/Other,2014,9,East of England,Helminthosis,Respiratory
+Unknown/Other,2014,9,East of England,"Marek's Disease
+",Respiratory
+Unknown/Other,2014,9,Scotland,Broiler ascites,Found Dead
+Unknown/Other,2014,9,Scotland,Egg peritonitis and salpingitis,Found Dead
+Unknown/Other,2014,10,South West,Infectious laryngo-tracheitis,Respiratory
+Unknown/Other,2014,10,West Midlands,Not listed - systemic,Recumbent
+Unknown/Other,2014,11,Scotland,Not listed - reproductive,Wasting
+Immature,2012,1,Yorkshire and The Humber,"Marek's Disease
+",Respiratory
+Immature,2012,2,Scotland,"Nephrosis, nephropathy and visceral gout",Abnormal faeces or other GIT
+Immature,2012,2,West Midlands,Infectious bronchitis,Wasting
+Immature,2012,2,West Midlands,Not listed - digestive,Found Dead
+Immature,2012,3,Yorkshire and The Humber,Osteomyelitis or spondylitis,Musculoskeletal&/or Lame
+Immature,2012,4,West Midlands,Pneumonia -other cause,Found Dead
+Immature,2012,5,East Midlands,Infectious sinusitis (Not otherwise specified),Respiratory
+Immature,2012,5,East Midlands,Mycoplasmosis - other,Respiratory
+Immature,2012,5,East Midlands,Osteomyelitis or spondylitis,Musculoskeletal&/or Lame
+Immature,2012,5,East Midlands,Skeletal defects,Musculoskeletal&/or Lame
+Immature,2012,5,Scotland,Pneumonia -other cause,Respiratory
+Immature,2012,5,South East,Infectious bronchitis,Respiratory
+Immature,2012,5,South East,Infectious coryza dt Avibacterium paragallinarum,Respiratory
+Immature,2012,5,South East,Mycoplasmosis - other,Respiratory
+Immature,2012,6,London,Infectious bronchitis,Respiratory
+Immature,2012,6,London,Mycoplasmosis - other,Respiratory
+Immature,2012,6,Scotland,Osteomalacia,Found Dead
+Immature,2012,6,Scotland,Coccidiosis,Found Dead
+Immature,2012,6,Scotland,Osteomalacia,Found Dead
+Immature,2012,6,South East,"Marek's Disease
+",Respiratory
+Immature,2012,7,East of England,Coccidiosis,Wasting
+Immature,2012,7,East of England,Infectious bronchitis,Wasting
+Immature,2012,7,Scotland,"""Spiking mortality"" of broilers",Found Dead
+Immature,2012,7,Scotland,Coccidiosis,Abnormal faeces or other GIT
+Immature,2012,7,Scotland,Listeriosis,Abnormal faeces or other GIT
+Immature,2012,7,Scotland,Vegetative endocarditis,Found Dead
+Immature,2012,7,South East,Coccidiosis,Musculoskeletal&/or Lame
+Immature,2012,7,South East,Colisepticaemia,Musculoskeletal&/or Lame
+Immature,2012,7,South East,Mycotic pneumonia or airsacculitis,Recumbent
+Immature,2018,7,Hertfordshire,Infectious laryngo-tracheitis,Respiratory
+Immature,2018,8,Ayrshire,Colisepticaemia,Found Dead
+Immature,2018,8,Dorset,Coccidiosis,Recumbent
+Immature,2018,8,Cornwall and Isles of Scilly,Infectious laryngo-tracheitis,Respiratory
+Immature,2018,10,Cumbria,Colisepticaemia,Abnormal faeces or other GIT
+Immature,2018,10,North West,Ectoparasite,Abnormal faeces or other GIT
+Immature,2019,7,South West,Marek's Disease,Musculoskeletal&/or Lame
+Immature,2019,8,Devon,Helminthosis,Wasting
+Immature,2019,8,Devon,Red Mite,Wasting
+Immature,2019,8,Devon,Coccidiosis,Wasting
+Immature,2019,8,Carmarthenshire,Mycoplasma gallisepticum,Respiratory
+Immature,2019,8,South West,Red Mite,Non-Specific
+Immature,2019,10,Pembrokeshire,Pododermatitis,Respiratory
+Immature,2019,10,Wales,Mycoplasma synoviae infection,Respiratory
+Immature,2020,8,East of England,Colisepticaemia,Wasting
+Immature,2020,8,North West,Infectious laryngo-tracheitis,Respiratory
+Immature,2020,8,South Weest,Marek's Disease,Lame
+Immature,2020,8,Wales,Osteomalacia,Nervous
+Immature,2020,9,East of England,Amyloidosis,Respiratory
+Immature,2020,9,East of England,Pneumonia,Respiratory
+Immature,2020,9,East of England,Infectious bronchitis,Respiratory
+Immature,2020,10,North West Wales,Not listed - digestive,Wasting
+Immature,2020,10,Kent,Mycotic pneumonia or airsacculitis,Abnormal faeces or other GIT
+Immature,2020,10,South East,Helminthosis,Abnormal faeces or other GIT
+Immature,2020,10,Kent,Coccidiosis,Abnormal faeces or other GIT
+Immature,2012,2,Warwickshire,Digestive,Found Dead
+Immature,2012,2,Scottish Borders,visceral gout,Abnormal faeces or other GIT
+Immature,2012,2,West midlands,Nephrosis,Abnormal faeces or other GIT
+Immature,2012,2,West midlands,Nephropathy,Abnormal faeces or other GIT
+Immature,2012,2,Staffordshire,Infectious bronchitis,Wasting
+Immature,2012,2,Warwickshire,Pneumonia,Found Dead
+Immature,2012,5,Warwickshire,Sudden death syndrome ('Flipover'),Found Dead
+Immature,2012,5,Buckinghamshire,Infectious coryza ,Respiratory
+Immature,2012,5,Nottinghamshire,Infectious sinusitis,Respiratory
+Immature,2012,5,Nottinghamshire,spondylitis,Musculoskeletal&/or Lame
+Immature,2012,5,East Midlands,Skeletal defects,Musculoskeletal&/or Lame
+Immature,2012,6,Lothian,Osteomalacia,Found Dead
+Immature,2012,6,Scotland,Coccidiosis,Found Dead
+Immature,2012,6,Greater London,Mycoplasmosis ,Respiratory
+Immature,2012,6,London,Marek's Disease,Respiratory
+Immature,2013,1,Hertfordshire,Coccidiosis,Non-Specific
+Immature,2013,1,Shropshire,"Spiking mortality"" of broilers",Other/Unknown
+Immature,2013,4,Hertfordshire,Skeletal defects,Nervous
+Immature,2013,4,Devon,encephalitis,Recumbent
+Immature,2013,4,Warwickshire,Septicaemia,Other/Unknown
+Immature,2013,4,eicestershire and Rutland,Malnutrition,Abnormal faeces or other GIT
+Immature,2013,6,Ayrshire,Trauma/Fracture,Other/Unknown
+Immature,2013,6,Staffordshire,Adverse environment,Found Dead
+Immature,2013,6,Scotland,Yolk sac infection/omphalitis,Found Dead
+Immature,2013,6,Cumbria,Vent & feather pecking,Found Dead
+Immature,2013,6,Ayrshire,Sudden death syndrome ,Found Dead
+Immature,2013,8,ALL,Broiler ascites,Found Dead
+Immature,2013,8,Lincolnshire,Inclusion body hepatitis,Other/Unknown
+Immature,2014,5,Shropshire,Coccidiosis,Found Dead
+Immature,2014,7,South Wales,Helminthosis,Wasting
+Immature,2014,9,All,Helminthosis,Wasting
+Immature,2014,10,Ayrshire,omphalitis,Other/Unknown
+Immature,2014,11,Scotland,Not listed - systemic,Other/Unknown
+Immature,2014,11,Devon,Coccidiosis,Wasting
+Immature,2015,11,Oxfordshire,Neoplasm-av. lymphoid leucosis,Egg drop
+Immature,2015,12,Ayrshire,Colisepticaemia,Other/Unknown
+Immature,2015,12,South East,Mycoplasma gallisepticum,Respiratory
+Immature,2015,7,Lincolnshire,Red Mite,Found Dead
+Immature,2015,8,Hertfordshire,Mycotic pneumonia or airsacculitis,Non-Specific
+Immature,2015,8,Dorset,Coligranuloma,Non-Specific
+Immature,2015,9,Ayrshire,Adverse environment,Found Dead
+Immature,2015,11,South East,lymphoid leucosis,Egg Quality
+Immature,2015,11,Ayrshire,Sudden death syndrome ,Other/Unknown
+Immature,2015,12,South East,Mycoplasma gallisepticum,Respiratory
+Immature,2016,2,Duhram,Ornithobacterium rhinotracheale,Respiratory
+Immature,2016,3,Scotland,starve out (1st 4 days life),Found Dead
+Immature,2016,4,Somerset excl North,Infectious bronchitis,Egg Drop
+Immature,2016,5,Scotland,Necrotic enteritis,Found Dead
+Immature,2016,8,East of England,Not listed - digestive,Other/Unknown
+Immature,2016,9,Ceredigion,Ectoparasite,Wasting
+Immature,2017,1,Scotland,Cellulitis,Found Dead
+Immature,2017,2,Scotland,Not listed - circulatory,Found Dead
+Immature,2017,5,Scotland,Staphylococcal infection,Other/Unknown
+Immature,2017,7,Scotland,Cardiomyopathy and heart failure,Found Dead
+Immature,2017,10,Ayrshire,Yolk sac infection,Other/Unknown
+Immature,2021,1,South west,Mycoplasma synoviae infection,Respiratory
+Immature,2021,1,Cornwall and Isles of Scilly,Respiratory cryptosporidiosis,Respiratory
+Immature,2021,4,Northamptonshire,Tibial dyschondroplasia,Wasting
+Immature,2021,5,North West,Mycoplasma gallisepticum,Other/Unknown
+Immature,2021,6,South West,Coccidiosis,Abnormal faeces or other GIT
+Immature,2021,7,Yorkshire and The Humber,Enterococcal infection,Musculoskeletal&/or Lame
+Immature,2021,7,East Riding and North Lincolnshire,Femoral head necrosis,Musculoskeletal&/or Lame
+Immature,2022,9,Derbyshire,Coccidiosis,Wasting
+Immature,2022,10,East of England,Infectious laryngo-tracheitis,Wasting
+Immature,2022,11,wales,Helminthosis,Nervous
+Immature,2022,11,wales,Marek's Disease,Nervous
+Immature,2023,11,East of England,Poor intestinal health in broilers,Abnormal faeces or other GIT
+Immature,2023,12,South West,Curled toe paralysis ,Musculoskeletal&/or Lame
+Immature,2023,7,South East,Eimeria tenella in chickens,Abnormal faeces or other GIT
+Immature,2023,3,East Midlands,Marek's Disease,Musculoskeletal&/or Lame
+Immature,2023,2,Wales,Myeloid leucosis (avian),Musculoskeletal&/or Lame
+Immature,2024,2,South East,Broiler ascites,Abnormal faeces or other GIT
+Immature,2024,3,Nottinghamshire,Gizzard erosion - NOS,Wasting
+Immature,2024,3,East Midlands,Chickens or turkeys,Wasting
+Immature,2024,8,East Midlands,Transmissible Viral Proventriculitis,Abnormal faeces or other GIT
+Immature,2024,9,East Midlands,Gizzard erosion due to Adenovirus,All
+Immature,2024,10,Yorkshire and The Humber,Myopathy,Musculoskeletal&/or Lame
+Immature,2024,12,East of England,Osteomalacia,Musculoskeletal&/or Lame
+Immature,2024,12,Greater London,Coccidiosis,Wasting
+Adult,2015,4,East of England,Marek's Disease,Other/Unkown
+Adult,2015,4,North West,Infectious bronchitis,Recumbent
+Adult,2015,4,Scotland,Neoplasm,Wasting
+Adult,2015,4,South West,Neoplasm,Other/Unkown
+Adult,2015,4,East of England,Impaction,Found Dead
+Adult,2015,5,Yorkshire and The Humber,Infectious Laryngo Tracheitis,Respiratory
+Adult,2015,5,West Midlands,Predation,Found Dead
+Adult,2015,5,Scotlands,Neoplasm,Other/Unkown
+Adult,2015,6,North West,Helminthosis,Abnormal faeces or other GIT
+Adult,2015,6,Yorkshire and The Humber,Amboidosis,Wasting
+Adult,2016,4,East of England,Chronic Congestive Heart failure,Wasting
+Adult,2016,4,Yorkshire and The Humber,Egg peritonitis and Salpingtis,Respiratory
+Adult,2016,5,East Midlands,Egg peritonitis and Salpingtis,Respiratory
+Adult,2016,5,South East,Tuberculosis,Wasting
+Adult,2016,6,East of England,Neoplasm,Wasting
+Adult,2016,6,South West,Red Mite,Respiratory
+Adult,2016,6,South West,Infectious,Respiratory
+Adult,2017,5,South West,Coccidiosis,Abnormal faeces or other GIT
+Adult,2017,5,South West,Egg peritonitis and Salpingtis,Recumbent
+Adult,2017,6,East of England,Neoplasm,Found Dead
+Adult,2017,6,North West,Fowl Pox,Wasting
+Adult,2017,6,North West,Neoplasm,Wasting
+Adult,2017,6,South West,Impaction,Wasting
+Adult,2017,6,South West,Vegetative Endocarditis,Wasting
+Adult,2017,6,Wales,Helminthosis,Nervous
+Adult,2017,6,Wales,Infectious sinusitis,Nervous
+Adult,2015,1,East of England,Urolithiasis,Found Dead
+Adult,2015,1,Scotland,Coligranuloma,Wasting
+Adult,2015,1,Wales,Infectious Laryngo Tracheitis,Respiratory
+Adult,2015,2,Wales,Helminthosis,Non specific
+Adult,2015,3,North East,Marek's Disease,Respiratory
+Adult,2015,3,North West,Pasteurella multocida,Respiratory
+Adult,2015,3,Scotland,Squamous cell carcinoma,Skin
+Adult,2015,3,Wales,Helminthosis,Wasting
+Adult,2015,3,Wales,Marek's Disease,Wasting
+Adult,2015,3,Yorkshire and The Humber,Vent and feather pecking,Found Dead
+Adult,2015,7,East of England,Marek's Disease,Nervous
+Adult,2015,7,East of England,Poisioning chemical,Found Dead
+Adult,2015,7,East of England,Red Mite,Abnormal faeces or other GIT
+Adult,2015,7,East of England,Red Mite,Other/Unkown
+Adult,2015,7,London,Red Mite,Found Dead
+Adult,2015,7,London,Not listed digestive,Found Dead
+Adult,2015,7,West Midlands,Coccidiosis,Respiratory
+Adult,2015,7,West Midlands,Marek's Disease,Wasting
+Adult,2015,7,Yorkshire and The Humber,Impaction,Wasting
+Adult,2015,7,Yorkshire and The Humber,Tuberculosis,Abnormal faeces or other GIT
+Adult,2015,8,Wales,Marek's Disease,Non specific
+Adult,2015,8,South West,Not listed digestive,Other/Unkown
+Adult,2015,8,South West,Egg peritonitis and Salpingtis,Other/Unkown
+Adult,2015,9,Wales,Infectious bronchitis,Abnormal faeces or other GIT
+Adult,2015,9,South West,Marek's Disease,Abnormal faeces or other GIT
+Adult,2015,10,South West,Neoplasm,Abnormal faeces or other GIT
+Adult,2015,10,North West,Egg peritonitis and Salpingtis,Found Dead
+Adult,2015,10,North West,Infectious bronchitis,Respiratory
+Adult,2015,10,North West,Mycoplasmosis,Respiratory
+Adult,2015,10,North West,Pasteurellosis ,Respiratory
+Adult,2015,11,East Midlands,Fowl Pox,Other/Unkown
+Adult,2015,11,East Midlands,Infectious Laryngo Tracheitis,Other/Unkown
+Adult,2015,11,South West,Infectious Laryngo Tracheitis,Respiratory
+Adult,2015,11,South West,Marek's Disease,Wasting
+Adult,2015,11,South West,Coccidiosis,Wasting
+Adult,2015,12,East of England,Infectious sinusitis,Respiratory
+Adult,2015,12,East of England,Mycotic pneumonia or airsacculitis,Respiratory
+Adult,2016,1,South West,Marek's Disease,Respiratory
+Adult,2016,1,South West,Mycoplasma gallispecticum,Respiratory
+Adult,2016,1,South East,Fatty liver haem syndrome of layer chickens,Found Dead
+Adult,2016,2,East Midlands,Marek's Disease,Musculoskeletal or lame 
+Adult,2016,2,North West,Neoplasm,Found Dead
+Adult,2016,2,South West,Neoplasm,Wasting
+Adult,2016,3,North West,Trauma/Fracture,Found Dead
+Adult,2016,3,Scotland,Marek's Disease,Other/Unkown
+Adult,2016,3,South East,Neoplasm,Wasting
+Adult,2016,3,South West,Marek's Disease,Abnormal faeces or other GIT
+Adult,2016,3,South West,Marek's Disease,Respiratory
+Adult,2016,3,South West,Marek's Disease,Musculoskeletal or lame 
+Adult,2016,7,East of England,Egg peritonitis and Salpingtis,Wasting
+Adult,2016,7,Scotland,Neoplasm,Found Dead
+Adult,2016,7,South East,Helminthosis,Respiratory
+Adult,2016,7,Yorkshire and The Humber,Egg peritonitis and Salpingtis,Other/Unkown
+Adult,2016,7,Yorkshire and The Humber,Trauma/Fracture,Other/Unkown
+Adult,2016,8,Scotland,Red Mite,Found Dead
+Adult,2016,8,Wales,Egg peritonitis and Salpingtis,Recumbent
+Adult,2016,9,Scotland,pendulous crop,Wasting
+Adult,2016,9,North West,Marek's Disease,Abnormal faeces or other GIT
+Adult,2016,10,North East,not listed respiratory,Respiratory
+Adult,2016,10,South West,spotty lever disease in layer chicken,Musculoskeletal or lame 
+Adult,2016,10,Yorkshire and The Humber,Infectious Laryngo Tracheitis,Found Dead
+Adult,2016,11,North West,Predation,Non specific
+Adult,2016,11,North West,Marek's Disease,Non specific
+Adult,2016,11,North West,Ectoparasite,Non specific
+Adult,2016,12,West Midlands,Tuberculosis,Wasting
+Adult,2016,12,South West,Tuberculosis,Respiratory
+Adult,2016,12,South West,Neoplasm,Recumbent
+Adult,2017,1,North East,Marek's Disease,Non specific
+Adult,2017,1,South East,Egg peritonitis and Salpingtis,Non specific
+Adult,2017,1,South West,Helminthosis,Non specific
+Adult,2017,1,South West,Red Mite,Non specific
+Adult,2017,1,South West,Protozoal Infection,Non specific
+Adult,2017,2,East of England,Cardiomyopathy and heart failure (other),Found Dead
+Adult,2017,2,East of England,Gizzard erosion - NOS,Wasting
+Adult,2017,2,scotland,Fatty liver haem syndrome of layer chickens,Found Dead
+Adult,2017,2,South east,Neoplasm,Respiratory
+Unknown/Other,2016,4,Scotland,Infectious Laryngo Tracheitis,Respiratory
+Unknown/Other,2016,7,Wales,Coccoidiosis,Wasting
+Unknown/Other,2016,9,South West,Coccoidiosis,Nervous
+Unknown/Other,2016,10,North East,Coccoidiosis,Found Dead
+Unknown/Other,2016,10,North East,Pasteurellosis,Found Dead
+Unknown/Other,2016,10,Scotland,Fowl Pox,Other/Unknown
+Unknown/Other,2016,10,South West,Mycoplasma Gallisepticum,Respiratory
+Unknown/Other,2016,11,Wales,Egg peritonitis and Salpingitis,Abnormal faeces or other GIT
+Unknown/Other,2017,4,North West,Impactions,Other/Unknown
+Unknown/Other,2017,4,North West,Malnutrition,Other/Unknown
+Unknown/Other,2017,5,East of England,Fatty liver haem syndrome of layer chickens,Other/Unknown
+Unknown/Other,2017,12,Scotland,Tuberculosis,Musculosskeletal and/or lame
+Unknown/Other,2020,8,South West,Not listed - digestive,Respiratory
+Unknown/Other,2020,10,North East,Marek's Disease,Found dead
+Unknown/Other,2020,12,Wales,Marek's Disease,Nervous
+0-7 days,2014,1,West Midlands,Yolk sac infection/omphalitis,Found dead
+0-7 days,2014,5,Scotland,Adverse environment,Other/Unknown
+0-7 days,2014,5,West Midlands,Colisepticaemia,Found dead
+0-7 days,2014,10,Scotland,Yolk sac infection/omphalitis,Other/Unknown
+Unknown/Other,2012,1,South West,adverse environment,Found dead
+Unknown/Other,2012,3,East Midlands,Trauma/Fracture,Found dead
+Unknown/Other,2012,3,North West,Infectious bronchitis,Abnormal faeces or other GIT
+Unknown/Other,2012,3,North West,"Nephrosis, nephropathy and visceral gout",Abnormal faeces or other GIT
+Unknown/Other,2012,3,North West,Urolithiasis,Abnormal faeces or other GIT
+Unknown/Other,2012,3,Wales,Coccidiosis,Wasting
+Unknown/Other,2012,3,Wales,Marek's Disease,Wasting
+Unknown/Other,2012,3,West Midlands,Marek's Disease,Found dead
+Unknown/Other,2012,4,South West,"Neoplasm (other, including adenocarcinoma)",Other/Unknown
+Unknown/Other,2012,5,East of England,Not listed - digestive,Musculoskeletal&/or Lame
+Unknown/Other,2012,5,South West,Infectious laryngo-tracheitis,Respiratory
+Unknown/Other,2012,6,South West,Coccidiosis,Found dead
+Unknown/Other,2012,6,South West,Coccidiosis,Other/Unknown
+Unknown/Other,2012,6,South West,Egg peritonitis and salpingitis,Found dead
+Unknown/Other,2012,6,North East,Not listed - digestive,Other/Unknown
+Unknown/Other,2012,6,East of England,Malnutrition,Found dead
+Unknown/Other,2012,7,East Midlands,Red Mite,Abnormal faeces or other GIT
+Unknown/Other,2012,7,East Midlands,Ectoparasite,Abnormal faeces or other GIT
+Unknown/Other,2012,7,South West,Infectious bronchitis,Found dead
+Unknown/Other,2012,7,South West,Mycoplasma gallisepticum,Wasting
+Unknown/Other,2012,7,South West,Pasteurella multocida,Wasting
+Unknown/Other,2012,7,West Midlands,Infectious bronchitis,Other/Unknown
+Unknown/Other,2012,8,East Midlands,Coccidiosis,Wasting
+Unknown/Other,2012,8,East Midlands,Marek's Disease,Wasting
+Unknown/Other,2012,8,South East,Blackhead,Respiratory
+Unknown/Other,2012,8,South East,Meningitis/encephalitis,Abnormal faeces or other GIT
+Unknown/Other,2012,8,South East,Not listed - digestive,Respiratory
+Unknown/Other,2012,8,South East,Red Mite,Found dead
+Unknown/Other,2012,9,East Midlands,"Nephrosis, nephropathy and visceral gout",Wasting
+Unknown/Other,2012,9,Scotland,Pasteurella multocida,Wasting
+Unknown/Other,2012,9,Wales,Mycoplasma gallisepticum,Found dead
+Unknown/Other,2012,10,South East,Marek's Disease,Abnormal faeces or other GIT
+Unknown/Other,2012,10,South East,Helminthosis,Abnormal faeces or other GIT
+Unknown/Other,2012,10,South East,Urolithiasis,Recumbent
+Unknown/Other,2012,10,South East,Infectious bronchitis,Respiratory
+Unknown/Other,2012,10,South East,Broiler ascites,Wasting
+Unknown/Other,2012,10,South West,"Neoplasm (other, including adenocarcinoma)",Wasting
+Unknown/Other,2012,10,South West,Not listed - skin,Wasting
+Unknown/Other,2012,11,South East,Colisepticaemia,Other/Unknown
+Unknown/Other,2012,11,South West,Fungal Infections (Not otherwise specified),Nervous
+Unknown/Other,2013,1,East of England,Marek's Disease,Abnormal faeces or other GIT
+Unknown/Other,2013,1,South West,Marek's Disease,Wasting
+Unknown/Other,2013,2,West Midlands,Helminthosis,Recumbent
+Unknown/Other,2013,3,Scotland,Pneumonia -other cause,Found dead
+Unknown/Other,2013,3,South East,Marek's Disease,Wasting
+Unknown/Other,2013,3,South West,Marek's Disease,Found dead
+Unknown/Other,2013,5,North East,Marek's Disease,Musculoskeletal&/or Lame
+Unknown/Other,2013,5,South East,Marek's Disease,Wasting
+Unknown/Other,2013,5,West Midlands,Egg peritonitis and salpingitis,Wasting
+Unknown/Other,2013,7,Scotland,Marek's Disease,Other/Unknown
+Unknown/Other,2013,9,West Midlands,Marek's Disease,Recumbent
+Unknown/Other,2013,11,South West,Egg peritonitis and salpingitis,Abnormal faeces or other GIT
+Unknown/Other,2018,4,Scotland,Egg peritonitis and salpingitis,Other/Unknown
+Unknown/Other,2018,5,Wales,Egg peritonitis and salpingitis,Non-specific
+Unknown/Other,2018,9,Scotland,Marek's Disease,Nervous
+Unknown/Other,2019,6,South West,Egg peritonitis and salpingitis,Wasting
+Unknown/Other,2021,3,West Midlands,Marek's Disease,Other/Unknown
+Unknown/Other,2021,8,South West,Egg peritonitis and salpingitis,Abnormal faeces or other GIT
+Unknown/Other,2022,6,Wales,Marek's Disease,Wasting
+Unknown/Other,2023,6,East Midlands,Marek's Disease,Other/Unknown
+Unknown/Other,2015,7,South West,Egg peritonitis and salpingitis,Respiratory
+Unknown/Other,2015,10,East of England,Egg peritonitis and salpingitis,Other/Unknown
+Unknown/Other,2015,12,Scotland,Marek's Disease,Musculoskeletal&/or Lame
+Unknown/Other,2015,1,Scotland,Yolk sac infection/omphalitis,Other/Unknown
+Unknown/Other,2015,1,Scotland,Colisepticaemia,Other/Unknown
+Unknown/Other,2015,5,South East,Infectious bronchitis,Respiratory
+Unknown/Other,2015,5,Yorkshire and The Humber,Not listed - respiratory,Respiratory
+Unknown/Other,2015,7,South West,Infectious bronchitis,Respiratory
+Unknown/Other,2015,7,South West,Mycoplasma synoviae infection,Respiratory
+Unknown/Other,2015,7,South West,Red Mite,Respiratory
+Unknown/Other,2015,9,Yorkshire and The Humber,Blackhead,Non-specific
+Unknown/Other,2015,9,Yorkshire and The Humber,Coccidiosis,Non-specific
+Unknown/Other,2015,9,Yorkshire and The Humber,Helminthosis,Non-specific
+Unknown/Other,2015,10,East of England,Coccidiosis,Other/Unknown
+Unknown/Other,2015,10,East of England,Infectious bronchitis,Respiratory
+Unknown/Other,2015,10,East of England,Visceral parasitism,Respiratory
+Unknown/Other,2015,12,Scotland,Marek's Disease,Musculoskeletal&/or Lame
+Unknown/Other,2013,6,South West,Ectoparasite,Other/Unknown
+Unknown/Other,2013,6,South West,Fowl pox (avian pox),Other/Unknown
+Unknown/Other,2013,7,Scotland,Arthritis/tenosynovoitis-Staph,Found dead
+Unknown/Other,2013,7,Scotland,Broiler ascites,Found dead
+Unknown/Other,2013,7,Scotland,Coccidiosis,Nervous
+Unknown/Other,2013,7,Scotland,Red Mite,Other/Unknown
+Unknown/Other,2013,7,East of England,Meningitis/encephalitis,Wasting
+Unknown/Other,2013,7,South East,Infectious bronchitis,Respiratory
+Unknown/Other,2013,8,East of England,Infectious bronchitis,Other/Unknown
+Unknown/Other,2013,8,East of England,Pasteurella multocida,Other/Unknown
+Unknown/Other,2013,8,East of England,Coccidiosis,Wasting
+Unknown/Other,2013,8,East of England,Avian intestinal spirachaetosis,Wasting
+Unknown/Other,2013,9,Scotland,Ectoparasite,Found dead
+Unknown/Other,2013,9,Scotland,Pneumonia -other cause,Found dead
+Unknown/Other,2013,9,South East,Fowl pox (avian pox),Wasting
+Unknown/Other,2013,9,Wales,Infectious bronchitis,Respiratory
+Unknown/Other,2013,9,Wales,Infectious laryngo-tracheitis,Respiratory
+Unknown/Other,2013,9,Wales,Mycoplasma gallisepticum,Respiratory
+Unknown/Other,2013,10,South East,Coccidiosis,Musculoskeletal&/or Lame
+Unknown/Other,2013,10,South East,Candidiasis,Wasting
+Unknown/Other,2013,11,Scotland,Arthritis/tenosynovoitis-Staph,Found dead
+Unknown/Other,2013,11,Scotland,Broiler ascites,Found dead
+Unknown/Other,2013,11,Scotland,Helminthosis,Found dead
+Unknown/Other,2013,11,Scotland,"Nephrosis, nephropathy and visceral gout",Found dead
+Unknown/Other,2013,11,Scotland,Sudden death syndrome ('Flipover'),Found dead
+Unknown/Other,2013,11,Scotland,Tuberculosis,Found dead
+Unknown/Other,2013,11,South East,Broiler ascites,Found dead
+Unknown/Other,2013,11,South East,Vent & feather pecking,Found dead
+Unknown/Other,2013,11,Yorkshire and The Humber,Infectious bronchitis,Found dead
+Unknown/Other,2013,11,South West,Egg peritonitis and salpingitis,Abnormal faeces or other GIT
+Unknown/Other,2013,11,South West,"Neoplasm (other, including adenocarcinoma)",Abnormal faeces or other GIT
+Unknown/Other,2013,12,Wales,Infectious bronchitis,Wasting
+Unknown/Other,2013,12,Wales,Mycoplasma gallisepticum,Wasting
+Unknown/Other,2013,12,Wales,Mycoplasma synoviae infection,Wasting
