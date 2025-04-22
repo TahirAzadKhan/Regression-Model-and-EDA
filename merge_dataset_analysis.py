@@ -7,8 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1TtklWmWyorixiUbAvJ7I25qpSopRxGCG
 """
 
-from google.colab import drive
-drive.mount('/content/drive')
+
 
 """#Libraries"""
 
@@ -22,10 +21,10 @@ import os
 import pandas as pd
 
 # Load farm density data (external factor influencing outbreaks)
-farm_density_df = pd.read_csv("/content/drive/My Drive/Farm density.csv")
+farm_density_df = pd.read_csv("Farm density.csv")
 
 # Load avian case data from the APHA Avian Dashboard dataset
-dataset_prt_df = pd.read_csv("/content/drive/My Drive/Dataset_PRT 564.csv")
+dataset_prt_df = pd.read_csv("Dataset_PRT 564.csv")
 
 # Clean 'Region' names to ensure consistency between datasets
 farm_density_df['Region'] = farm_density_df['Region'].str.strip().str.lower()
